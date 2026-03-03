@@ -31,12 +31,5 @@ jupyter notebook
 
 The notebook will read the CSV from `data/` and regenerate the figure in `docs/`.
 
-### GitHub Pages
-
-If you enable GitHub Pages to serve from the `docs/` folder, you can embed the PNG in an HTML/Markdown
-dashboard using a relative link such as:
-
-```markdown
-![Barquisimeto temperature records](barquisimeto_temperature_records.png)
 ```
 
